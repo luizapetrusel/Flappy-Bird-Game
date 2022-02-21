@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1576434731 source:c:\users\laura\desktop\flappy\main.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	"Struct.h"
+	"Init.h"
+	"GameOver.h"
+	"Controls.h"
+	"Graphics.h"
+
+1576432723 c:\users\laura\desktop\flappy\struct.h
+
+1576434731 source:c:\users\laura\desktop\flappy\controls.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	"Struct.h"
+	"Init.h"
+	"Controls.h"
+
+1576434455 c:\users\laura\desktop\flappy\init.h
+	"Struct.h"
+
+1576434455 c:\users\laura\desktop\flappy\controls.h
+
+1576434473 source:c:\users\laura\desktop\flappy\gameover.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	"Struct.h"
+	"Init.h"
+	"GameOver.h"
+	"Graphics.h"
+
+1576434455 c:\users\laura\desktop\flappy\gameover.h
+
+1576434455 source:c:\users\laura\desktop\flappy\init.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	"Init.h"
+	"Struct.h"
+
+1576434455 c:\users\laura\desktop\flappy\graphics.h
+	"Struct.h"
+
+1576434792 source:c:\users\laura\desktop\flappy\graphics.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	"Struct.h"
+	"Init.h"
+	"Graphics.h"
+
+1576439273 source:c:\users\lluiz\desktop\flappy\controls.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	"Struct.h"
+	"Init.h"
+	"Controls.h"
+
+1576432723 c:\users\lluiz\desktop\flappy\struct.h
+
+1576434455 c:\users\lluiz\desktop\flappy\init.h
+	"Struct.h"
+
+1576434455 c:\users\lluiz\desktop\flappy\controls.h
+
+1576434851 source:c:\users\lluiz\desktop\flappy\gameover.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	"Struct.h"
+	"Init.h"
+	"GameOver.h"
+	"Graphics.h"
+
+1576434455 c:\users\lluiz\desktop\flappy\gameover.h
+
+1576434455 c:\users\lluiz\desktop\flappy\graphics.h
+	"Struct.h"
+
+1576434792 source:c:\users\lluiz\desktop\flappy\graphics.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	"Struct.h"
+	"Init.h"
+	"Graphics.h"
+
+1576434455 source:c:\users\lluiz\desktop\flappy\init.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	"Init.h"
+	"Struct.h"
+
+1576439144 source:c:\users\lluiz\desktop\flappy\main.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	"Struct.h"
+	"Init.h"
+	"GameOver.h"
+	"Controls.h"
+	"Graphics.h"
+
